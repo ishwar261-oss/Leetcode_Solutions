@@ -155,4 +155,8 @@ id 4 → id 5 → id 6
 
 ## Tags
 
+<<<<<<< HEAD
 `SQL` `Self Join` `JOIN` `Medium`
+=======
+`SQL` `Self Join` `JOIN` `Medium`
+>>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

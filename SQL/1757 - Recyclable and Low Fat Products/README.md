@@ -46,4 +46,8 @@ WHERE low_fats = 'Y'
 
 ## Tags
 
+<<<<<<< HEAD
 `SQL` `Easy` `Filtering`
+=======
+`SQL` `Easy` `Filtering`
+>>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

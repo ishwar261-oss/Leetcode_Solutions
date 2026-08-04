@@ -12,4 +12,8 @@ int main(){
     vector<double> ans = convertTemp(celcius);
     cout<<"Tempreature in Kelvin : "<<ans[0]<<"\nTempreature in Fahrenheit : "<<ans[1]<<endl;
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

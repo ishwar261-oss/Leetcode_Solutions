@@ -1,3 +1,48 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+#include<iostream>
+#include<vector>
+    using namespace std;
+
+//Brute Force Approach
+int maxSubArraySum(vector<int>&nums){
+    int currentSum = nums[0];
+        int maxSum = nums[0];
+
+        for (int i = 1; i < nums.size(); i++) {
+
+            currentSum = max(nums[i], currentSum + nums[i]);
+
+            maxSum = max(maxSum, currentSum);
+        }
+
+        return maxSum;
+}
+
+// Kadane's Algorithm
+int maxSubArraysum(vector<int>&nums){
+    int n = nums.size();
+    int currSum = 0, maxSum = 0;
+    for(int i = 0; i < n; i+=1){
+        currSum += nums[i];
+        maxSum = max(currSum,maxSum);
+        if(currSum < 0)
+            currSum = 0;
+        
+    }
+    return maxSum;
+}
+
+int main(){
+    vector<int> nums = {-2,1,-3,4,-1,2,1,-5,4};
+
+    int ans = maxSubArraysum(nums);
+    cout<<"MAximum Subarray Sum : "<<ans<<endl;
+
+    return 0;
+=======
+>>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 #include<iostream>
 #include<vector>
     using namespace std;
@@ -37,4 +82,9 @@ int main(){
     cout<<"MAximum Subarray Sum : "<<ans<<endl;
 
     return 0;
+<<<<<<< HEAD
 }
+=======
+>>>>>>> 90bb90bb2c571441903367ecd6656292423de447
+}
+>>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

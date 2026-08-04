@@ -43,4 +43,8 @@ Given the number of LEDs that are turned on, return all possible valid times.
 
 ## Tags
 
+<<<<<<< HEAD
 `Bit Manipulation` `Backtracking` `Enumeration`
+=======
+`Bit Manipulation` `Backtracking` `Enumeration`
+>>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
