@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 190. Reverse Bits
 
 ## Problem Statement
@@ -75,8 +72,6 @@ O(1)
 
 ## Tags
 
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 190. Reverse Bits
 
 ## Problem Statement
@@ -151,9 +146,5 @@ O(1)
 
 ## Tags
 
-<<<<<<< HEAD
 `Bit Manipulation`
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 `Bit Manipulation`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

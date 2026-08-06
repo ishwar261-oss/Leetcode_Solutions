@@ -98,8 +98,4 @@ Returned Indices:
 
 - Arrays
 - Brute Force
-<<<<<<< HEAD
 - Nested Loops
-=======
-- Nested Loops
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

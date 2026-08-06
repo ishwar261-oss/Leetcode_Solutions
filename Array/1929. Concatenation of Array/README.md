@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 1929. Concatenation of Array
 
 > **Problem Link:** https://leetcode.com/problems/concatenation-of-array/
@@ -51,8 +48,6 @@ This directly constructs the concatenated array in a single traversal. :contentR
 ## Tags
 
 - Arrays
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 1929. Concatenation of Array
 
 > **Problem Link:** https://leetcode.com/problems/concatenation-of-array/
@@ -103,9 +98,5 @@ This directly constructs the concatenated array in a single traversal. :contentR
 ## Tags
 
 - Arrays
-<<<<<<< HEAD
 - Simulation
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 - Simulation
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

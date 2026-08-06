@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 2469. Convert the Temperature
 
 > **Problem Link:** https://leetcode.com/problems/convert-the-temperature/
@@ -51,8 +48,6 @@ Calculate the temperature in Kelvin and Fahrenheit separately, store both values
 - Math
 - Simulation
 - Implementation
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 2469. Convert the Temperature
 
 > **Problem Link:** https://leetcode.com/problems/convert-the-temperature/
@@ -103,7 +98,3 @@ Calculate the temperature in Kelvin and Fahrenheit separately, store both values
 - Math
 - Simulation
 - Implementation
-<<<<<<< HEAD
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 584. Find Customer Referee
 
 ## Problem Statement
@@ -54,8 +51,6 @@ WHERE referee_id <> 2
 
 ## Tags
 
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 584. Find Customer Referee
 
 ## Problem Statement
@@ -109,9 +104,5 @@ WHERE referee_id <> 2
 
 ## Tags
 
-<<<<<<< HEAD
 `SQL` `Easy` `NULL` `Filtering`
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 `SQL` `Easy` `NULL` `Filtering`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

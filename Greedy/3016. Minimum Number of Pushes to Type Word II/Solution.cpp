@@ -38,8 +38,4 @@ int main() {
     cout << obj.minimumPushes(word);
 
     return 0;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

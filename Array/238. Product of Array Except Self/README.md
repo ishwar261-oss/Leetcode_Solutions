@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 x# 238. Product of Array Except Self
 
 > **Problem Link:** https://leetcode.com/problems/product-of-array-except-self/
@@ -58,8 +55,6 @@ This avoids division and satisfies the required time complexity.
 - Arrays
 - Prefix Sum
 - Suffix Product
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 x# 238. Product of Array Except Self
 
 > **Problem Link:** https://leetcode.com/problems/product-of-array-except-self/
@@ -117,9 +112,5 @@ This avoids division and satisfies the required time complexity.
 - Arrays
 - Prefix Sum
 - Suffix Product
-<<<<<<< HEAD
 - Dynamic Programming
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 - Dynamic Programming
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

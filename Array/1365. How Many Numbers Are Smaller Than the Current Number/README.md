@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 1365. How Many Numbers Are Smaller Than the Current Number
 
 > **Problem Link:** https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
@@ -69,8 +66,6 @@ Since the sorted index represents the number of smaller elements, use the map to
 - Arrays
 - Sorting
 - Hash Map
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 1365. How Many Numbers Are Smaller Than the Current Number
 
 > **Problem Link:** https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
@@ -139,9 +134,5 @@ Since the sorted index represents the number of smaller elements, use the map to
 - Arrays
 - Sorting
 - Hash Map
-<<<<<<< HEAD
 - Brute Force
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 - Brute Force
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

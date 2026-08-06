@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 627. Swap Salary
 
 ## Problem Statement
@@ -51,8 +48,6 @@ This updates every row in a single query.
 
 ## Tags
 
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 627. Swap Salary
 
 ## Problem Statement
@@ -103,9 +98,5 @@ This updates every row in a single query.
 
 ## Tags
 
-<<<<<<< HEAD
 `SQL` `Easy` `UPDATE` `CASE`
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 `SQL` `Easy` `UPDATE` `CASE`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 645. Set Mismatch
 
 > **Problem Link:** https://leetcode.com/problems/set-mismatch/
@@ -58,8 +55,6 @@ Return both values.
 
 - Arrays
 - Hashing
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 645. Set Mismatch
 
 > **Problem Link:** https://leetcode.com/problems/set-mismatch/
@@ -117,9 +112,5 @@ Return both values.
 
 - Arrays
 - Hashing
-<<<<<<< HEAD
 - Frequency Counting
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 - Frequency Counting
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

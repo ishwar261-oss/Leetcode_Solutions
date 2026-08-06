@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 918. Maximum Sum Circular Subarray
 
 ## Problem
@@ -197,8 +194,6 @@ O(1)
 
 ## Tags
 
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 918. Maximum Sum Circular Subarray
 
 ## Problem
@@ -395,9 +390,5 @@ O(1)
 
 ## Tags
 
-<<<<<<< HEAD
 `Array` `Dynamic Programming` `Kadane's Algorithm`
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 `Array` `Dynamic Programming` `Kadane's Algorithm`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

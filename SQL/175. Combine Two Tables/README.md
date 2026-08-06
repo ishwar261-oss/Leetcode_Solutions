@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 175. Combine Two Tables
 
 > **Problem Link:** https://leetcode.com/problems/combine-two-tables/
@@ -71,8 +68,6 @@ ON p.personId = a.personId;
 
 - SQL
 - JOIN
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 175. Combine Two Tables
 
 > **Problem Link:** https://leetcode.com/problems/combine-two-tables/
@@ -143,9 +138,5 @@ ON p.personId = a.personId;
 
 - SQL
 - JOIN
-<<<<<<< HEAD
 - Easy
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 - Easy
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

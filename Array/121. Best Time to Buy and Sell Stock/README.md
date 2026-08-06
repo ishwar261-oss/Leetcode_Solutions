@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 121. Best Time to Buy and Sell Stock
 
 > **Problem Link:** https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
@@ -59,8 +56,6 @@ For every price:
 
 - Arrays
 - Greedy
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 121. Best Time to Buy and Sell Stock
 
 > **Problem Link:** https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
@@ -119,9 +114,5 @@ For every price:
 
 - Arrays
 - Greedy
-<<<<<<< HEAD
 - Dynamic Programming
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 - Dynamic Programming
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

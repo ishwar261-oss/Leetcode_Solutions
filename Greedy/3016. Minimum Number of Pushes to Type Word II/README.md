@@ -78,8 +78,4 @@ Total = **6**.
 
 ## Tags
 
-<<<<<<< HEAD
 `Greedy` `Hash Table` `Sorting` `String`
-=======
-`Greedy` `Hash Table` `Sorting` `String`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

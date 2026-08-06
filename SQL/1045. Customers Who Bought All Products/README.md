@@ -42,8 +42,4 @@ Find the customers who have purchased every product listed in the `Product` tabl
 
 ## Tags
 
-<<<<<<< HEAD
 `SQL` `Database` `GROUP BY` `HAVING`
-=======
-`SQL` `Database` `GROUP BY` `HAVING`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

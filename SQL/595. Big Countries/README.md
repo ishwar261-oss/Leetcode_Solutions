@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 595. Big Countries
 
 ## Problem Statement
@@ -53,8 +50,6 @@ WHERE area >= 3000000
 
 ## Tags
 
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 595. Big Countries
 
 ## Problem Statement
@@ -107,9 +102,5 @@ WHERE area >= 3000000
 
 ## Tags
 
-<<<<<<< HEAD
 `SQL` `Easy` `Filtering`
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 `SQL` `Easy` `Filtering`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 1070. Product Sales Analysis III
 
 ## Problem
@@ -45,8 +42,6 @@ Find the first year each product was sold and return its `product_id`, `first_ye
 
 ## Tags
 
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 1070. Product Sales Analysis III
 
 ## Problem
@@ -91,9 +86,5 @@ Find the first year each product was sold and return its `product_id`, `first_ye
 
 ## Tags
 
-<<<<<<< HEAD
 `SQL` `Database` `JOIN` `GROUP BY`
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 `SQL` `Database` `JOIN` `GROUP BY`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

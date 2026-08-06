@@ -50,8 +50,4 @@ for storing the split words and the resulting string.
 
 - String
 - Two Pointers
-<<<<<<< HEAD
 - StringBuilder
-=======
-- StringBuilder
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

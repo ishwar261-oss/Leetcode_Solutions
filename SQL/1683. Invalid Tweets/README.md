@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 1683. Invalid Tweets
 
 ## Problem Statement
@@ -37,8 +34,6 @@ Filter the rows where the content length is greater than `15`.
 
 ## Tags
 
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 1683. Invalid Tweets
 
 ## Problem Statement
@@ -75,9 +70,5 @@ Filter the rows where the content length is greater than `15`.
 
 ## Tags
 
-<<<<<<< HEAD
 `SQL` `Easy` `String Functions`
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 `SQL` `Easy` `String Functions`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

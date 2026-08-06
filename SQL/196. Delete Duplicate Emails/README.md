@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 196. Delete Duplicate Emails
 
 ## Problem Statement
@@ -80,8 +77,6 @@ Delete : id = 3
 
 ## Tags
 
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 196. Delete Duplicate Emails
 
 ## Problem Statement
@@ -161,9 +156,5 @@ Delete : id = 3
 
 ## Tags
 
-<<<<<<< HEAD
 `SQL` `Easy` `DELETE` `SELF JOIN`
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 `SQL` `Easy` `DELETE` `SELF JOIN`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

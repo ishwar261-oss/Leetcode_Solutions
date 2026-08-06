@@ -37,8 +37,4 @@ Retrieve:
 
 ## Tags
 
-<<<<<<< HEAD
 `SQL` `Easy` `JOIN`
-=======
-`SQL` `Easy` `JOIN`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

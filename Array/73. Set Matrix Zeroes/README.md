@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 73. Set Matrix Zeroes
 
 ## Problem
@@ -44,8 +41,6 @@ Given an `m × n` matrix, if an element is `0`, set its entire row and column to
 
 ## Tags
 
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 73. Set Matrix Zeroes
 
 ## Problem
@@ -89,9 +84,5 @@ Given an `m × n` matrix, if an element is `0`, set its entire row and column to
 
 ## Tags
 
-<<<<<<< HEAD
 `Array` `Matrix`
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 `Array` `Matrix`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 746. Min Cost Climbing Stairs
 
 ## Problem Statement
@@ -204,8 +201,6 @@ dp[i] = cost[i] + min(dp[i-1], dp[i-2])
 
 ## Tags
 
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 746. Min Cost Climbing Stairs
 
 ## Problem Statement
@@ -409,9 +404,5 @@ dp[i] = cost[i] + min(dp[i-1], dp[i-2])
 
 ## Tags
 
-<<<<<<< HEAD
 `Dynamic Programming` `Array` `Space Optimized DP`
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 `Dynamic Programming` `Array` `Space Optimized DP`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

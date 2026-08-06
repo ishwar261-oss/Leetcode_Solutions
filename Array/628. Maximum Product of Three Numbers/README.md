@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 628. Maximum Product of Three Numbers
 
 ## Problem
@@ -45,8 +42,6 @@ Given an integer array `nums`, return the maximum product that can be obtained f
 
 ## Tags
 
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 628. Maximum Product of Three Numbers
 
 ## Problem
@@ -91,9 +86,5 @@ Given an integer array `nums`, return the maximum product that can be obtained f
 
 ## Tags
 
-<<<<<<< HEAD
 `Array` `Sorting` `Math`
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 `Array` `Sorting` `Math`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

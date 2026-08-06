@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 ```md
 # Pow(x, n)
 
@@ -48,8 +45,6 @@ Repeatedly square the base while halving the exponent. If the exponent is odd, m
 - Divide and Conquer
 ```
 
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 ```md
 # Pow(x, n)
 
@@ -97,7 +92,3 @@ Repeatedly square the base while halving the exponent. If the exponent is odd, m
 - Divide and Conquer
 ```
 
-<<<<<<< HEAD
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

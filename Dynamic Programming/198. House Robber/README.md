@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # House Robber (LeetCode 198)
 
 ## Problem Statement
@@ -187,8 +184,6 @@ dp[i] = max(take, skip)
 
 ## Tags
 
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # House Robber (LeetCode 198)
 
 ## Problem Statement
@@ -375,9 +370,5 @@ dp[i] = max(take, skip)
 
 ## Tags
 
-<<<<<<< HEAD
 `Dynamic Programming` `Array` `Space Optimized DP` `1D DP`
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 `Dynamic Programming` `Array` `Space Optimized DP` `1D DP`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

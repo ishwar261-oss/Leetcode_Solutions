@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 class Solution {
 public:
     int findComplement(int num) {
@@ -32,8 +29,6 @@ int main() {
     cout << sol.findComplementOptimal(5) << endl;
     return 0;
 }
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 class Solution {
 public:
     int findComplement(int num) {
@@ -46,7 +41,6 @@ public:
 
         return num ^ (mask - 1);
     }
-<<<<<<< HEAD
 
     int findComplementOptimal(int num) {
         int mask = num;
@@ -66,7 +60,3 @@ int main() {
     cout << sol.findComplementOptimal(5) << endl;
     return 0;
 }
-=======
-};
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 1378. Replace Employee ID With The Unique Identifier
 
 ## Problem Statement
@@ -39,8 +36,6 @@ Use a `LEFT JOIN` to combine the `Employees` table with the `EmployeeUNI` table.
 
 ## Tags
 
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 1378. Replace Employee ID With The Unique Identifier
 
 ## Problem Statement
@@ -79,9 +74,5 @@ Use a `LEFT JOIN` to combine the `Employees` table with the `EmployeeUNI` table.
 
 ## Tags
 
-<<<<<<< HEAD
 `SQL` `Easy` `JOIN`
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 `SQL` `Easy` `JOIN`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

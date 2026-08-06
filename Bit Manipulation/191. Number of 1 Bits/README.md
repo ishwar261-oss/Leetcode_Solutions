@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 191. Number of 1 Bits
 
 ## Problem Statement
@@ -92,8 +89,6 @@ Space: O(1)
 
 ## Tags
 
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 191. Number of 1 Bits
 
 ## Problem Statement
@@ -185,9 +180,5 @@ Space: O(1)
 
 ## Tags
 
-<<<<<<< HEAD
 `Bit Manipulation`
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 `Bit Manipulation`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

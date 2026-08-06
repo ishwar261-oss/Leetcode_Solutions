@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 16. 3Sum Closest
 
 ## Problem
@@ -51,8 +48,6 @@ Return the sum of the three integers.
 
 ## Tags
 
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 16. 3Sum Closest
 
 ## Problem
@@ -103,9 +98,5 @@ Return the sum of the three integers.
 
 ## Tags
 
-<<<<<<< HEAD
 `Array` `Two Pointers` `Sorting`
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 `Array` `Two Pointers` `Sorting`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 570. Managers with at Least 5 Direct Reports
 
 ## Problem Statement
@@ -38,8 +35,6 @@ Return the result table in any order.
 
 ## Tags
 
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 570. Managers with at Least 5 Direct Reports
 
 ## Problem Statement
@@ -77,9 +72,5 @@ Return the result table in any order.
 
 ## Tags
 
-<<<<<<< HEAD
 `SQL` `Easy` `JOIN` `GROUP BY`
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 `SQL` `Easy` `JOIN` `GROUP BY`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

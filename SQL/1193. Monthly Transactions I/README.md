@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 1193. Monthly Transactions I
 
 ## Problem Statement
@@ -66,8 +63,6 @@ Return the results grouped by **month** and **country**.
 
 ## Tags
 
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 1193. Monthly Transactions I
 
 ## Problem Statement
@@ -133,9 +128,5 @@ Return the results grouped by **month** and **country**.
 
 ## Tags
 
-<<<<<<< HEAD
 `SQL` `Medium` `GROUP BY` `Aggregation`
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 `SQL` `Medium` `GROUP BY` `Aggregation`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

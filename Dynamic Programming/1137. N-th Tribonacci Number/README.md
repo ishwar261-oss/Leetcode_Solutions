@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 1137. N-th Tribonacci Number
 
 ## Problem
@@ -61,8 +58,6 @@ This avoids recursion and uses constant extra space.
 
 - Dynamic Programming
 - Iteration
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 1137. N-th Tribonacci Number
 
 ## Problem
@@ -123,9 +118,5 @@ This avoids recursion and uses constant extra space.
 
 - Dynamic Programming
 - Iteration
-<<<<<<< HEAD
 - Math
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 - Math
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

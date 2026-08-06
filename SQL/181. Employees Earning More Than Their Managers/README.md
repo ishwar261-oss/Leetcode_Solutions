@@ -69,8 +69,4 @@ WHERE e.salary > m.salary;
 
 - SQL
 - SELF JOIN
-<<<<<<< HEAD
 - Easy
-=======
-- Easy
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

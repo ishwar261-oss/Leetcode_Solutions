@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 3513. Number of Unique XOR Triplets I
 
 ## Problem
@@ -43,8 +40,6 @@ Given a permutation of integers from `1` to `n`, return the number of distinct X
 
 ## Tags
 
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 3513. Number of Unique XOR Triplets I
 
 ## Problem
@@ -87,9 +82,5 @@ Given a permutation of integers from `1` to `n`, return the number of distinct X
 
 ## Tags
 
-<<<<<<< HEAD
 `Array` `Math` `Bit Manipulation`
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 `Array` `Math` `Bit Manipulation`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

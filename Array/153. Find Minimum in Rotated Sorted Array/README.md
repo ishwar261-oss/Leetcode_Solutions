@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 153. Find Minimum in Rotated Sorted Array
 
 ## Problem
@@ -45,8 +42,6 @@ Given a rotated sorted array with unique elements, find the minimum element in `
 
 ## Tags
 
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 153. Find Minimum in Rotated Sorted Array
 
 ## Problem
@@ -91,9 +86,5 @@ Given a rotated sorted array with unique elements, find the minimum element in `
 
 ## Tags
 
-<<<<<<< HEAD
 `Array` `Binary Search`
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 `Array` `Binary Search`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

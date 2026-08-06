@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 620. Not Boring Movies
 
 ## Problem Statement
@@ -43,8 +40,6 @@ Return the result ordered by **rating in descending order**.
 
 ## Tags
 
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 620. Not Boring Movies
 
 ## Problem Statement
@@ -87,9 +82,5 @@ Return the result ordered by **rating in descending order**.
 
 ## Tags
 
-<<<<<<< HEAD
 `SQL` `Easy`
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 `SQL` `Easy`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 485. Max Consecutive Ones
 
 > **Problem Link:** https://leetcode.com/problems/max-consecutive-ones/
@@ -52,8 +49,6 @@ Update the maximum streak after every `1`. :contentReference[oaicite:1]{index=1}
 ## Tags
 
 - Arrays
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 485. Max Consecutive Ones
 
 > **Problem Link:** https://leetcode.com/problems/max-consecutive-ones/
@@ -105,9 +100,5 @@ Update the maximum streak after every `1`. :contentReference[oaicite:1]{index=1}
 ## Tags
 
 - Arrays
-<<<<<<< HEAD
 - Traversal
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 - Traversal
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

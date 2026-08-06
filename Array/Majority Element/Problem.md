@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 ```md
 # Majority Element
 
@@ -43,8 +40,6 @@ Use **Moore's Voting Algorithm** to find the majority element in a single traver
 - Moore's Voting Algorithm
 - Greedy
 ```
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 ```md
 # Majority Element
 
@@ -87,7 +82,3 @@ Use **Moore's Voting Algorithm** to find the majority element in a single traver
 - Moore's Voting Algorithm
 - Greedy
 ```
-<<<<<<< HEAD
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

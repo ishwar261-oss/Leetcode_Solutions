@@ -71,8 +71,4 @@ n = 3
 
 ## Tags
 
-<<<<<<< HEAD
 `Array` `Two Pointers` `Sorting`
-=======
-`Array` `Two Pointers` `Sorting`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

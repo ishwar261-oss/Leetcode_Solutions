@@ -22,8 +22,4 @@ public:
 
         return first * second;
     }
-<<<<<<< HEAD
 };
-=======
-};
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 65. Valid Number
 
 ## Problem Statement
@@ -66,8 +63,6 @@ Rules:
 
 ## Tags
 
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 65. Valid Number
 
 ## Problem Statement
@@ -133,9 +128,5 @@ Rules:
 
 ## Tags
 
-<<<<<<< HEAD
 `String` `Parsing` `Hard` `Simulation`
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 `String` `Parsing` `Hard` `Simulation`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

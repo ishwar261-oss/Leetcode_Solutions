@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 197. Rising Temperature
 
 ## Problem Statement
@@ -39,8 +36,6 @@ Use a self join on the `Weather` table:
 
 ## Tags
 
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 197. Rising Temperature
 
 ## Problem Statement
@@ -79,9 +74,5 @@ Use a self join on the `Weather` table:
 
 ## Tags
 
-<<<<<<< HEAD
 `SQL` `Easy` `Join`
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 `SQL` `Easy` `Join`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

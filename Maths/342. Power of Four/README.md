@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 342. Power of Four
 
 ## Problem
@@ -81,8 +78,6 @@ false
 
 ## Tags
 
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 342. Power of Four
 
 ## Problem
@@ -163,9 +158,5 @@ false
 
 ## Tags
 
-<<<<<<< HEAD
 `Math` `Bit Manipulation`
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 `Math` `Bit Manipulation`
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

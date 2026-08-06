@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # 448. Find All Numbers Disappeared in an Array
 
 > **Problem Link:** https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
@@ -51,8 +48,6 @@ This allows us to solve the problem without using extra space.
 
 - Arrays
 - In-place Hashing
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 # 448. Find All Numbers Disappeared in an Array
 
 > **Problem Link:** https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
@@ -103,9 +98,5 @@ This allows us to solve the problem without using extra space.
 
 - Arrays
 - In-place Hashing
-<<<<<<< HEAD
 - Index Mapping
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
 - Index Mapping
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720

@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 #include<iostream>
 #include<vector>
     using namespace std;
@@ -43,8 +40,6 @@ int main(){
 
     return 0;
 }
-=======
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
 #include<iostream>
 #include<vector>
     using namespace std;
@@ -55,17 +50,11 @@ int majorityElement(vector<int> &nums){
     for(int i = 0; i < n*2; i+=1){
         int count = 0;
         for(int j = 0; j < n*2; j+=1){
-<<<<<<< HEAD
             if(nums[j] == nums[i])
                 count +=1;
         }
         if(count > n)
             return nums[i];
-=======
-            if(nums[j] == nums[i]) count +=1;
-        }
-        if(count > n) return nums[i];
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
     }
     return -1;
 }
@@ -73,7 +62,6 @@ int majorityElement(vector<int> &nums){
 int MajorityElement(vector<int> &nums){
     int n = nums.size();
     int majEle = 0, count = 0;
-<<<<<<< HEAD
 
     for(int num : nums){
         if(count == 0)
@@ -84,13 +72,6 @@ int MajorityElement(vector<int> &nums){
         else count -=1;
     }
 
-=======
-    for(int num : nums){
-        if(count == 0) majEle = num;
-        if(majEle == num) count +=1;
-        else count -=1;
-    }
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
     return majEle;
 }    
 int main(){
@@ -101,7 +82,3 @@ int main(){
 
     return 0;
 }
-<<<<<<< HEAD
-=======
->>>>>>> 90bb90bb2c571441903367ecd6656292423de447
->>>>>>> da8ae76aebc765b73442c19b1571de8aa45b6720
