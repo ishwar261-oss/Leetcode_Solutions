@@ -4,7 +4,7 @@ public:
         int n = nums.size();
         int ans = -1;
 
-        for (int x = 1; x <= 50; x++) {
+        for (int x = 0; x <= 50; x++) {
             int count = 0;
 
             for (int i = 0; i <= n - k; i++) {
