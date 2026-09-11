@@ -1,0 +1,99 @@
+# 3483. Unique 3-Digit Even Numbers
+
+## Problem
+
+Given an array of digits, find all unique three-digit even numbers that can be formed using the digits.
+
+Each digit can be used at most once for a number.
+
+The resulting numbers must:
+
+- Have exactly 3 digits.
+- Not start with `0`.
+- Be even.
+- Be unique.
+
+Return the numbers in increasing order.
+
+## Approach
+
+Use three nested loops to choose:
+
+- One digit for the hundreds place.
+- One digit for the tens place.
+- One digit for the units place.
+
+For every combination:
+
+1. Make sure the same array index is not used more than once.
+2. The hundreds digit cannot be `0`.
+3. The units digit must be even.
+4. Construct the three-digit number.
+5. Store it in the answer.
+
+Since duplicate numbers can be created from repeated digits, sort the result and use `unique()` to remove duplicates.
+
+## Example
+
+Input:
+
+`digits = [2, 1, 3, 0]`
+
+Output:
+
+`[102, 120, 130, 132, 210, 230, 302, 310, 312, 320]`
+
+Explanation:
+
+All numbers are three-digit even numbers formed using the available digits without reusing an index.
+
+## Algorithm
+
+1. Initialize an empty answer array.
+2. Use three nested loops.
+3. Select indices `i`, `j`, and `k`.
+4. Skip the combination if any two indices are the same.
+5. Skip if `digits[i] == 0`.
+6. Skip if `digits[k]` is odd.
+7. Construct the number:
+   `digits[i] * 100 + digits[j] * 10 + digits[k]`
+8. Add the number to the answer.
+9. Sort the answer.
+10. Remove duplicate numbers.
+11. Return the answer.
+
+## Key Idea
+
+For a three-digit even number:
+
+- The first digit must be from `1` to `9`.
+- The last digit must be even: `0, 2, 4, 6, 8`.
+- Three different array indices must be used.
+
+Trying every possible combination is simple and efficient because the input contains only a small number of digits.
+
+## Complexity
+
+### Time Complexity
+
+O(n³)
+
+There are three nested loops.
+
+The additional sorting takes `O(k log k)`, where `k` is the number of generated numbers.
+
+### Space Complexity
+
+O(k)
+
+The answer array stores the generated numbers.
+
+## Concepts Used
+
+- Arrays
+- Nested Loops
+- Brute Force
+- Permutations
+- Sorting
+- Duplicate Removal
+- Even Numbers
